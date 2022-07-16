@@ -20,5 +20,5 @@
 - [김윤진]
 - [김채형]
 - [안정민]
-- [전소연]
+- [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
 - [지상은]
