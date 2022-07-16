@@ -16,7 +16,7 @@
 > 7주차(~8/20) - 파라미터 튜닝 & 모델 선택 & 결과 제출 (Final Submission Deadline : 8/24)  
 > 8주차(~8/27) - PPT 제작
 
-### 20220716
+### 20220716  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716)
 - [김윤진]
 - [김채형]
 - [안정민]
