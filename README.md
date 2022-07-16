@@ -17,7 +17,8 @@
 > 8주차(~8/27) - PPT 제작
 
 ### 20220716  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716)
-- [김윤진]
+- 김윤진
+  - [대회 데이터 정리](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716/데이터 파악  & EDA (feather파일)_윤진.ipynb)
 - [김채형](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA_chaehyounng.ipynb)
 - [안정민]
 - [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
