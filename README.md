@@ -21,7 +21,7 @@
   - [대회 데이터 정리](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716/데이터파악&EDA(feather파일)_윤진.ipynb)
   - [EDA](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716/AMEX_EDA_윤진.ipynb)
 - [김채형](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA_chaehyounng.ipynb)
-- [안정민]
+- [안정민] (https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/0716_ajm_eda_sample.ipynb)
 - [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
 - [지상은]()
 
