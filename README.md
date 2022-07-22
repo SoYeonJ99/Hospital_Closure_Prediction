@@ -23,4 +23,4 @@
 - [김채형](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA_chaehyounng.ipynb)
 - [안정민]
 - [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
-- [지상은]
+- [지상은](https://www.kaggle.com/seun22)
