@@ -29,7 +29,7 @@
 ### 20220723  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220723)
 - 김윤진
 - 김채형
-  - [결측치 처리]()
+  - [결측치 처리](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/2-1) Reduce Data Size, Missing Values_chaehyounng.ipynb)
   - [변수 선택]()
 - [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/0723_ajm_eda.ipynb)
 - 전소연
