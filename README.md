@@ -13,7 +13,7 @@
 > 4주차(~7/30) - EDA & 데이터 전처리  
 > 5주차(~8/6)&nbsp;&nbsp;&nbsp;- 데이터 전처리  
 > 6주차(~8/13) - 모델 적합 & 파라미터 튜닝  
-> 7주차(~8/20) - 파라미터 튜닝 & 모델 선택 & 결과 제출 (Final Submission Deadline : 8/24)  
+> 7주차(~8/20) - 파라미터 튜닝 & 모델 선택 & 결과 제출 ~~(Final Submission Deadline : 8/24)~~
 > 8주차(~8/27) - PPT 제작
 
 ### 20220716  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716)
