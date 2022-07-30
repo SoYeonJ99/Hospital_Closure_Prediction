@@ -36,4 +36,9 @@
 - 지상은
 
 
-### 20220730 [바로가기]
+### 20220730 [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220730)
+- 김윤진
+- [김채형]()
+- [안정민]()
+- [전소연]()
+- [지상은]()
