@@ -37,10 +37,10 @@
 
 
 ### 20220730 [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220730)
-- 김윤진
+- [김윤]
 - 김채형
   - [EDA](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/hospital_%20EDA_chaehyounng.ipynb)
-  - [Missing Values]()
+  - [Missing Values](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/hospital_%20MissingValues_chaehyounng.ipynb)
 - [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/0730_ajm_EDA.ipynb)
-- [전소연]()
-- [지상은]()
+- [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/EDA_JSY.ipynb)
+- [지상은]
