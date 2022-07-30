@@ -1,8 +1,8 @@
-# Sooktat-Project_team3-2022-Summer
+## Sooktat-Project_team3-2022-Summer
 - 숙탯 3조의 2022 여름방학 DACON Competition Project 과정을 기록하는 저장소입니다.
 
 
-## DACON Project
+# DACON Project
 - Competition: [병원 개/폐업 분류 예측 경진대회](https://dacon.io/competitions/official/9565/overview/description)
 - Members: 김윤진, 김채형, 안정민, 전소연, 지상은
 
