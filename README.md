@@ -16,31 +16,31 @@
 > 7주차(~8/20) - 파라미터 튜닝 & 모델 선택 & 결과 제출  
 > 8주차(~8/27) - PPT 제작
 
-### 20220716  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716)
+### 20220716  [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220716)
 - 김윤진  
-  - [대회 데이터 정리](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716/데이터파악&EDA(feather파일)_윤진.ipynb)
-  - [EDA](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220716/AMEX_EDA_윤진.ipynb)
-- [김채형](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA_chaehyounng.ipynb)
-- [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/0716_ajm_eda_sample.ipynb)
-- [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
+  - [대회 데이터 정리](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220716/데이터파악&EDA(feather파일)_윤진.ipynb)
+  - [EDA](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220716/AMEX_EDA_윤진.ipynb)
+- [김채형](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220716/EDA_chaehyounng.ipynb)
+- [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220716/0716_ajm_eda_sample.ipynb)
+- [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220716/EDA1_JSY.ipynb)
 - [지상은]()
 
 
-### 20220723  [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220723)
+### 20220723  [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220723)
 - 김윤진
 - 김채형
-  - [결측치 처리](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/MissingValues_chaehyounng.ipynb)
-  - [변수 선택](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/FeatureSelection_chaehyounng.ipynb)
-- [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/0723_ajm_eda.ipynb)
+  - [결측치 처리](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220723/MissingValues_chaehyounng.ipynb)
+  - [변수 선택](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220723/FeatureSelection_chaehyounng.ipynb)
+- [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220723/0723_ajm_eda.ipynb)
 - 전소연
 - 지상은
 
 
-### 20220730 [바로가기](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/tree/main/ProjectCode/20220730)
+### 20220730 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220730)
 - [김윤진]
 - 김채형
-  - [EDA](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/hospital_%20EDA_chaehyounng.ipynb)
-  - [Missing Values](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/hospital_%20MissingValues_chaehyounng.ipynb)
-- [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/0730_ajm_EDA.ipynb)
-- [전소연](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220730/EDA_JSY.ipynb)
+  - [EDA](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/hospital_%20EDA_chaehyounng.ipynb)
+  - [Missing Values](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/hospital_%20MissingValues_chaehyounng.ipynb)
+- [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730_ajm_EDA.ipynb)
+- [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/EDA_JSY.ipynb)
 - [지상은]
