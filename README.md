@@ -1,5 +1,5 @@
 # Sooktat-Project_team3-2022-Summer
-- 2022 여름 숙탯 3조의 Kaggle Competition Project 과정을 기록하는 저장소입니다.
+- 2022 여름 숙탯 3조의 DACON Competition Project 과정을 기록하는 저장소입니다.
 
 
 ## DACON Project
