@@ -2,8 +2,8 @@
 - 2022 여름 숙탯 3조의 Kaggle Competition Project 과정을 기록하는 저장소입니다.
 
 
-## Kaggle Project
-- Competition: [American Express - Default Prediction](https://www.kaggle.com/competitions/amex-default-prediction/data)
+## DACON Project
+- Competition: [병원 개/폐업 분류 예측 경진대회](https://dacon.io/competitions/official/9565/overview/description)
 - Members: 김윤진, 김채형, 안정민, 전소연, 지상은
 
 ### Project Plan
@@ -34,3 +34,6 @@
 - [안정민](https://github.com/SoYeonJ99/Sooktat-Project_team3-2022-Summer/blob/main/ProjectCode/20220723/0723_ajm_eda.ipynb)
 - 전소연
 - 지상은
+
+
+### 20220730 [바로가기]
