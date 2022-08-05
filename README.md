@@ -37,7 +37,7 @@
 
 
 ### 20220730 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220730)
-- [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/eda&전처리_.ipynb)
+- [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/eda&preprocess_YJ.ipynb)
 - 김채형
   - [EDA](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/hospital_%20EDA_chaehyounng.ipynb)
   - [Missing Values](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/hospital_%20MissingValues_chaehyounng.ipynb)
