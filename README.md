@@ -43,4 +43,4 @@
   - [Missing Values](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/hospital_%20MissingValues_chaehyounng.ipynb)
 - [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730_ajm_EDA.ipynb)
 - [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/EDA_JSY.ipynb)
-- [지상은]
+- [지상은](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730.ipynb)
