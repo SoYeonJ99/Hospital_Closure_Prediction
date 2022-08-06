@@ -44,3 +44,11 @@
 - [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730_ajm_EDA.ipynb)
 - [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/EDA_JSY.ipynb)
 - [지상은](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730.ipynb)
+
+
+### 20220806  [바로가기]
+- 김윤진
+- 김채형
+- 안정민
+- 전소연
+- 지상은
