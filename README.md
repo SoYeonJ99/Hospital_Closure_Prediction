@@ -46,8 +46,8 @@
 - [지상은](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220730/0730.ipynb)
 
 
-### 20220806  [바로가기]
-- 김윤진
+### 20220806  [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220806)
+- [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj.ipynb)
 - 김채형
 - 안정민
 - 전소연
