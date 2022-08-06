@@ -48,7 +48,7 @@
 
 ### 20220806  [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220806)
 - [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj.ipynb)
-- [김채형](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing_chaehyounng.html)
+- [김채형](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing_chaehyounng.ipynb)
 - 안정민
 - 전소연
 - 지상은
