@@ -50,5 +50,7 @@
 - [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj.ipynb)
 - [김채형](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing_chaehyounng.ipynb)
 - 안정민
-- [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
+- 전소연
+  - [EDA #2. Outlier Detection & Correlation](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/EDA2_JSY.ipynb)
+  - [Preprocessing](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
 - 지상은
