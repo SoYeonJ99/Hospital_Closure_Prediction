@@ -62,8 +62,8 @@
 
 ### 20220814 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220814)
 - 전소연  
-  AdaBoost   
+  + AdaBoost   
   - [모델 설명](https://velog.io/@beechwood/Adaboost)  
   - [모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/Adaboost_JSY.ipynb)  
-  CatBoost  
+  + CatBoost  
   - [모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/Catboost_JSY.ipynb)
