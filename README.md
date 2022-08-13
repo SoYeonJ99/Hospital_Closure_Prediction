@@ -53,7 +53,7 @@
 - 전소연
   - [EDA #2. Outlier Detection & Correlation](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/EDA2_JSY.ipynb)
   - [Preprocessing #1](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
-  - [Prerocessing #2 (2022/08/10)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
+  - [Preprocessing #2 (2022/08/10)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
 - 지상은
 
 
