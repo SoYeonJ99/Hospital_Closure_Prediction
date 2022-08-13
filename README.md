@@ -58,3 +58,12 @@
 
 ### 20220810   [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220810)
 - [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
+
+
+### 20220810 [바로가기]()
+- 전소연
+  - AdaBoost 
+  [모델 설명](https://velog.io/@beechwood/Adaboost)
+  [모델 적합]()
+  - CatBoost
+  [모델적합]()
