@@ -57,4 +57,4 @@
 
 
 ### 20220810   [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220810)
-- [전소연]()
+- [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
