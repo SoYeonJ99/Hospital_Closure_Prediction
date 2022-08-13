@@ -52,12 +52,9 @@
 - [안정민](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/0806_ajm_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 - 전소연
   - [EDA #2. Outlier Detection & Correlation](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/EDA2_JSY.ipynb)
-  - [Preprocessing](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
+  - [Preprocessing #1](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
+  - [Prerocessing #2_2022/08/10](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
 - 지상은
-
-
-### 20220810   [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220810)
-- [전소연](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing2_JSY.ipynb)
 
 
 ### 20220814 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220814)
