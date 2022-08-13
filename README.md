@@ -56,5 +56,5 @@
 - 지상은
 
 
-### 20220810   [바로가기]()
+### 20220810   [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220810)
 - [전소연]()
