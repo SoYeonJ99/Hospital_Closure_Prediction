@@ -54,3 +54,7 @@
   - [EDA #2. Outlier Detection & Correlation](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/EDA2_JSY.ipynb)
   - [Preprocessing](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing1_JSY.ipynb)
 - 지상은
+
+
+### 20220810   [바로가기]()
+- [전소연]()
