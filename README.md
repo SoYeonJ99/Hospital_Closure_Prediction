@@ -61,3 +61,6 @@
 - 전소연  
   + AdaBoost [모델 설명](https://velog.io/@beechwood/Adaboost), [모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/Adaboost_JSY1.ipynb)  
   + CatBoost [모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/Catboost_JSY.ipynb)
+- 안정민
+  + XGBoost[모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/0814_ajm_modeling_XGBoost.ipynb)
+  + LGBM[모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/0814_ajm_modeling_LGBM.ipynb)
