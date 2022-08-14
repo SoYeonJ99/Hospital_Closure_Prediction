@@ -66,3 +66,5 @@
 - 안정민
   + XGBoost [모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/0814_ajm_modeling_XGBoost.ipynb)
   + LGBM [모델적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/0814_ajm_modeling_LGBM.ipynb)
+- 김채형 
+  + Random Forest & GBM [모델 설명 및 모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/Model Fitting_RandomForest_GBM_chaehyounng.ipynb)
