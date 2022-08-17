@@ -69,4 +69,4 @@
 - 김채형 
   + Random Forest & GBM [모델 설명 및 모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/ModelFitting_RandomForest_GBM_chaehyounng.ipynb)
 - 지상은
-  + 인공신경망[모델 설명 및 모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/%EB%AA%A8%EB%8D%B8%20%EC%A0%81%ED%95%A9_%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
+  + 인공신경망 [모델 설명 및 모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/%EB%AA%A8%EB%8D%B8%20%EC%A0%81%ED%95%A9_%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D.ipynb)
