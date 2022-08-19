@@ -47,7 +47,9 @@
 
 
 ### 20220806  [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220806)
-- [김윤진](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj.ipynb)
+- 김윤진
+   - [Preprocessing1 (8/6)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj.ipynb)
+   - [Preprocessing2 & Fitting Model (8/10)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/preprocessing_yj-Copy1.ipynb)
 - 김채형
    - [Preprocessing1 (8/6)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220806/Preprocessing_chaehyounng.ipynb)
    - [Preprocessing2 & Fitting Model (8/10)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220810/Preprocessing_FittingModel_chaehyounng.ipynb)
