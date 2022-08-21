@@ -76,6 +76,6 @@
   + SVM & DiscriminantAnalysis & KNN [모델 설명 및 모델 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220814/svm&DiscriminantAnalysis&knn.ipynb)
 
 
-### 20220821 [바로가기]()
+### 20220821 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220821)
 - 전소연
   + Adaboost [Grid Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Adaboost_GridSearch_JSY.ipynb)
