@@ -78,4 +78,4 @@
 
 ### 20220821 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220821)
 - 전소연
-  + Adaboost [Grid Search, Randomized Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Adaboost_GridSearch_JSY.ipynb)
+  + Adaboost [Grid Search & Randomized Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Adaboost_GridSearch_JSY.ipynb)
