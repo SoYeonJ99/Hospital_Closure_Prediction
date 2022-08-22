@@ -82,3 +82,6 @@
 - 안정민
   + [XGBoost](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/0821_ajm_XGBoost.ipynb)
   + [LGBM](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/0821_ajm_LGBM.ipynb)
+- 김윤진
+  + [재무제표 비율 추가](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/preprocessing_yj-Copy1.ipynb)
+  + [svm튜닝+컷오프 수정+앙상블 추가](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/svm&DiscriminantAnalysis&knn.ipynb)
