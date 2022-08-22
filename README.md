@@ -80,4 +80,4 @@
 - 전소연
   + Adaboost [Grid Search & Random Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Adaboost_tuning1_JSY.ipynb)
 - 지상은
-  +앙상블 [모델 설명 및 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/%EC%95%99%EC%83%81%EB%B8%94%20.ipynb)
+  + 앙상블 [모델 설명 및 적합](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/%EC%95%99%EC%83%81%EB%B8%94%20.ipynb)
