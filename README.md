@@ -85,3 +85,5 @@
 - 김윤진
   + [재무제표 비율 추가](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/preprocessing_yj-Copy1.ipynb)
   + [svm튜닝+컷오프 수정+앙상블 추가](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/svm&DiscriminantAnalysis&knn.ipynb)
+- 김채형 
+  + Random Forest & GBM [Grid Search]()
