@@ -87,3 +87,9 @@
   + [svm튜닝+컷오프 수정+앙상블 추가](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/svm&DiscriminantAnalysis&knn.ipynb)
 - 김채형 
   + Random Forest & GBM [Grid Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/ParmeterTuning_RandomForest_GBM_chaehyounng.ipynb)
+
+
+### 20220829 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220829)
+- 전소연
+  + Adaboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Adaboost_optuna_JSY.ipynb)
+  + Catboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Catboost_optuna_JSY.ipynb)
