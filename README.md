@@ -95,3 +95,4 @@
   + Catboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Catboost_optuna_JSY.ipynb)
 - 김채형
   + Random Forest & GBM [Parameter Tuning2 - GridSearchCV & Bayesian Optimization](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/ParameterTuning2_RandomForest_GBM_chaehyounng.ipynb)
+  + [Ensemble (Random Forest + GBM)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Ensemble_chaehyounng.ipynb)
