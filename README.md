@@ -96,3 +96,6 @@
 - 김채형
   + Random Forest & GBM [Parameter Tuning2 - GridSearchCV & Bayesian Optimization](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/ParameterTuning2_RandomForest_GBM_chaehyounng.ipynb)
   + [Ensemble (Random Forest + GBM)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Ensemble_chaehyounng.ipynb)
+- 김윤진
+  + [SVM튜닝(AUC기준 추가)](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/svm&DiscriminantAnalysis&knn.ipynb)
+  + [NeuralNetwork튜닝(accuracy&AUC)+모델 성능 정리](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/neuralnetwork_tuning&model_scores.ipynb)
