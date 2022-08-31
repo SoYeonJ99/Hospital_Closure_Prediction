@@ -102,4 +102,4 @@
 - 안정민
   + XGBoost & LGBM [Parameter Tuning - GridSearchCV](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/0829_ajm_ParameterTuning.ipynb)
 - 지상은
-  + deep neural network(accuracy&auc) []
+  + deep neural network(accuracy&auc)[https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/deep_neural_network_.ipynb]
