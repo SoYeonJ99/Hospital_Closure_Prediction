@@ -101,3 +101,5 @@
   + [NeuralNetwork튜닝(accuracy&AUC)+모델 성능 정리](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/neuralnetwork_tuning&model_scores.ipynb)
 - 안정민
   + XGBoost & LGBM [Parameter Tuning - GridSearchCV](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/0829_ajm_ParameterTuning.ipynb)
+- 지상은
+  + deep neural network(accuracy&auc) []
