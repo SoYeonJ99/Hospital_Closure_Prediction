@@ -79,6 +79,7 @@
 ### 20220821 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220821)
 - 전소연
   + Adaboost [Grid Search & Random Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Adaboost_tuning1_JSY.ipynb)
+  + Catboost [Grid Search & Random Search](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/Catboost_grid%26random_JSY.ipynb)
 - 안정민
   + [XGBoost](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/0821_ajm_XGBoost.ipynb)
   + [LGBM](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220821/0821_ajm_LGBM.ipynb)
@@ -91,7 +92,7 @@
 
 ### 20220829 [바로가기](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/tree/main/ProjectCode/20220829)
 - 전소연
-  + Adaboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Adaboost_optuna_JSY.ipynb), [Grid Search & Random Search #2](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Adaboost_grid%26random2_JSY.ipynb)
+  + Adaboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Adaboost_optuna_JSY.ipynb) / [Grid Search & Random Search #2](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Adaboost_grid%26random2_JSY.ipynb)
   + Catboost [Optuna](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/Catboost_optuna_JSY.ipynb)
 - 김채형
   + Random Forest & GBM [Parameter Tuning2 - GridSearchCV & Bayesian Optimization](https://github.com/SoYeonJ99/Hospital_Closure_Prediction/blob/main/ProjectCode/20220829/ParameterTuning2_RF_GBM_chaehyounng.ipynb)
